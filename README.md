@@ -24,4 +24,5 @@ Part 1: Create the Earthquake Visualization
 
   - Create a legend that will provide context for your map data.
 
-![image](https://github.com/lydiab72/leaflet-challenge/assets/132516418/a4037c20-1e81-41a0-9c50-ead9c707f940)
+![image](https://github.com/lydiab72/leaflet-challenge/assets/132516418/6806abb8-a80b-4f6e-962a-cea9d664ccd5)
+
